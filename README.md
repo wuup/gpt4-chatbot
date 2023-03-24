@@ -1,4 +1,5 @@
 # gpt4-chatbot
+About as simple as a base chatbot could get, go forth...
 
 Install the python depedencies:
 
